@@ -1,1 +1,1 @@
-# PrologTurFoz
+# Instruções para execução
